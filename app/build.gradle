@@ -16,7 +16,7 @@ android {
         multiDexEnabled true
         vectorDrawables.useSupportLibrary = true
         manifestPlaceholders = [
-                GOOGLE_API_KEY: ""
+                GOOGLE_API_KEY: "AIzaSyBlbHm6i1Aw_L90Z7Ost8Y-MVd0w7MIvFM"
         ]
 
         ndk.abiFilters 'armeabi-v7a','arm64-v8a','x86','x86_64'
