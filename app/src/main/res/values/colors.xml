@@ -1,6 +1,6 @@
 <resources>
-  <color name="primary">#5A6D87</color>
-  <color name="primary_dark">#475972</color>
-  <color name="primaryButton">#F48C6B</color>
-  <color name="positiveButton">#35C772</color>
+  <color name="primary">#581f6d</color>
+  <color name="primary_dark">#470f5b</color>
+  <color name="primaryButton">#6c5aea</color>
+  <color name="positiveButton">#5c4d80</color>
 </resources>
