@@ -1,7 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-  <string name="app_name" tools:ignore="MissingTranslation">Travel App</string>
-  <string name="com_travelpayouts_marker" tools:ignore="MissingTranslation"></string>
-  <string name="com_travelpayouts_api_token" tools:ignore="MissingTranslation"></string>
-  <string name="com_travelpayouts_flight_engine_host" tools:ignore="MissingTranslation">https://www.travel-api.pw</string>
-  <string name="com_travelpayouts_privacy_policy" tools:ignore="MissingTranslation"></string>
+  <string name="app_name" tools:ignore="MissingTranslation">Xperta Travel</string>
+  <string name="com_travelpayouts_marker" tools:ignore="MissingTranslation">241344</string>
+  <string name="com_travelpayouts_api_token" tools:ignore="MissingTranslation">067f3840767a727d1f5c3d3cfdc492e5</string>
+  <string name="com_travelpayouts_flight_engine_host" tools:ignore="MissingTranslation">https://vuelos.xpertatravel.com</string>
+  <string name="com_travelpayouts_privacy_policy" tools:ignore="MissingTranslation">https://xpertatravel.com/politicas-de-privacidad/</string>
 </resources>
