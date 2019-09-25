@@ -8,7 +8,7 @@ android {
     compileSdkVersion 29
 
     defaultConfig {
-        applicationId "com.travelpayouts.travel.app"
+        applicationId "com.xpertatravel.travel.app"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
