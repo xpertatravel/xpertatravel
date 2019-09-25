@@ -1,7 +1,7 @@
 <manifest
         xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
-        package="com.travelpayouts.travel.app">
+        package="com.xpertatravel.travel.app">
 
     <application
             android:name="com.travelpayouts.travel.sdk.TravelApp"
